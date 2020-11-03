@@ -12,3 +12,5 @@ We wanted users to have a simple experience too. Pages are designed in a minimal
 
 
 The Rotary Snowball Sweepstakes website is nearing the end of its development. As soon as it's live, this README will be updated with a link to the site so you can explore it yourself!
+
+**note** All sponsor logos in these demonstration gifs are just placeholders, these companies (if they exist) are not affiliated with the Rotary Snowball Sweepstakes in any way.
