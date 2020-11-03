@@ -1,5 +1,5 @@
 # Rotary Snowball Sweepstakes
-The front end of this website was built using react. I am showcasing only the front end in a public repository in order to avoid revealing any potential security flaws in the back end. 
+The front end of this website was built using react. I am showcasing only the front end with some modifications in a public repository in order to preserve the site's security.
 
 The website was built with ease of use in mind. Almost everything on the site is customizable by admins through the front end interface.
 
