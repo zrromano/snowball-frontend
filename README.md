@@ -3,4 +3,4 @@ The front end of this website was built using react. I am showcasing only the fr
 
 Almost everything on the site is customizable through the front end interface.
 
-![](https://gfycat.com/matureglumamericansaddlebred)
+![https://gfycat.com/matureglumamericansaddlebred](https://gfycat.com/matureglumamericansaddlebred)
