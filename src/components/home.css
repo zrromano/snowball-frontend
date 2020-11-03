@@ -1,0 +1,61 @@
+.Home {
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+  margin: 50px;
+  padding: 25px;
+  max-width: 100%;
+}
+
+.container {
+  max-width: 100%;
+}
+
+.PrizeSponsors {
+  border-left: 2px solid #f7a81b;
+  padding: 5px;
+}
+
+.LeadingOrganizations {
+  border-left: 2px solid #f7a81b;
+}
+
+.slideshow {
+  height: 300px;
+  margin-bottom: 80px;
+}
+
+.slide-container {
+  width: 70%;
+  margin: auto;
+}
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 300px;
+}
+
+.each-slide span {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1200px) {
+  .slide-container {
+    display: none;
+  }
+  .belowSlideshow {
+    position: relative;
+    top: -350px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .PrizeSponsors {
+    border: none;
+  }
+}

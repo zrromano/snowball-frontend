@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.container {
+  margin: 20px;
+  width: 100%;
+}
+
+.container .body {
+  width: 100%;
+}
+
+.formTitle {
+  text-align: center;
+  font-weight: bold;
+}
+
+.disclaimer {
+  text-align: center;
+  font-size: 0.75rem;
+  font-style: italic;
+}
+
+.customerInfo {
+  margin: auto;
+  border-right: 2px solid #f7a81b;
+}
+
+.transactionInfo {
+  height: 100%;
+  margin: auto 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.btn {
+  margin-left: auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+  .customerInfo {
+    border-right: none;
+    border-bottom: 2px solid #f7a81b;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+}
