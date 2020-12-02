@@ -1,7 +1,7 @@
 # Rotary Snowball Sweepstakes
-The front end of this website was built using react. I am showcasing only the front end with some modifications in a public repository in order to preserve the site's security.
+The front end of this website was built using react. I am showcasing only the front end with some modifications in a public repository in order to preserve the site's security. The live version of the site is still being improved, but I won't be updating this showcase so any bugs that I fix will remain here for posterity :)
 
-The website was built with ease of use in mind. Almost everything on the site is customizable by admins through the front end interface.
+The website was built with ease of use in mind. Almost everything on the site is customizable by admins through the front end interface. 
 
 ![](adminExperience.gif)
 
